@@ -1,0 +1,3 @@
+# Project exclude paths
+/inventory_project/
+/inventory_project/tests/
